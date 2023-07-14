@@ -1,0 +1,531 @@
+CBASS Date,rackColor,position,postitionNumber,Shayle tube number,TEMP.treatment
+6/8/22,Orange,topLeft,1,1,30
+6/8/22,Orange,topCenter,2,2,30
+6/8/22,Orange,topRight,3,3,30
+6/8/22,Orange,centerLeft,4,4,30
+6/8/22,Orange,centerRight,5,5,30
+6/8/22,Orange,bottomLeft,6,6,30
+6/8/22,Orange,bottomCenter,7,7,30
+6/8/22,Orange,bottomRight,8,8,30
+6/8/22,Pink,topLeft,1,9,30
+6/8/22,Pink,topCenter,2,10,30
+6/8/22,Pink,topRight,3,11,30
+6/8/22,Pink,centerLeft,4,12,30
+6/8/22,Pink,centerRight,5,13,30
+6/8/22,Pink,bottomLeft,6,14,30
+6/8/22,Pink,bottomCenter,7,15,30
+6/8/22,Pink,bottomRight,8,16,30
+6/8/22,Orange,topLeft,1,17,34
+6/8/22,Orange,topCenter,2,18,34
+6/8/22,Orange,topRight,3,19,34
+6/8/22,Orange,centerLeft,4,20,34
+6/8/22,Orange,centerRight,5,21,34
+6/8/22,Orange,bottomLeft,6,22,34
+6/8/22,Orange,bottomCenter,7,23,34
+6/8/22,Orange,bottomRight,8,24,34
+6/8/22,Pink,topLeft,1,25,34
+6/8/22,Pink,topCenter,2,26,34
+6/8/22,Pink,topRight,3,27,34
+6/8/22,Pink,centerLeft,4,28,34
+6/8/22,Pink,centerRight,5,29,34
+6/8/22,Pink,bottomLeft,6,30,34
+6/8/22,Pink,bottomCenter,7,31,34
+6/8/22,Pink,bottomRight,8,32,34
+6/8/22,Orange,topLeft,1,33,35
+6/8/22,Orange,topCenter,2,34,35
+6/8/22,Orange,topRight,3,35,35
+6/8/22,Orange,centerLeft,4,36,35
+6/8/22,Orange,centerRight,5,37,35
+6/8/22,Orange,bottomLeft,6,38,35
+6/8/22,Orange,bottomCenter,7,39,35
+6/8/22,Orange,bottomRight,8,40,35
+6/8/22,Pink,topLeft,1,41,35
+6/8/22,Pink,topCenter,2,42,35
+6/8/22,Pink,topRight,3,43,35
+6/8/22,Pink,centerLeft,4,44,35
+6/8/22,Pink,centerRight,5,45,35
+6/8/22,Pink,bottomLeft,6,46,35
+6/8/22,Pink,bottomCenter,7,47,35
+6/8/22,Pink,bottomRight,8,48,35
+6/8/22,Pink,topLeft,1,49,36
+6/8/22,Pink,topCenter,2,50,36
+6/8/22,Pink,topRight,3,51,36
+6/8/22,Pink,centerLeft,4,52,36
+6/8/22,Pink,centerRight,5,53,36
+6/8/22,Pink,bottomLeft,6,54,36
+6/8/22,Pink,bottomCenter,7,55,36
+6/8/22,Pink,bottomRight,8,56,36
+6/8/22,Orange,topLeft,1,57,36
+6/8/22,Orange,topCenter,2,58,36
+6/8/22,Orange,topRight,3,59,36
+6/8/22,Orange,centerLeft,4,60,36
+6/8/22,Orange,centerRight,5,61,36
+6/8/22,Orange,bottomLeft,6,62,36
+6/8/22,Orange,bottomCenter,7,63,36
+6/8/22,Orange,bottomRight,8,64,36
+6/8/22,Orange,topLeft,1,33,37
+6/8/22,Orange,topCenter,2,34,37
+6/8/22,Orange,topRight,3,35,37
+6/8/22,Orange,centerLeft,4,36,37
+6/8/22,Orange,centerRight,5,37,37
+6/8/22,Orange,bottomLeft,6,38,37
+6/8/22,Orange,bottomCenter,7,39,37
+6/8/22,Orange,bottomRight,8,40,37
+6/8/22,Pink,topLeft,1,41,37
+6/8/22,Pink,topCenter,2,42,37
+6/8/22,Pink,topRight,3,43,37
+6/8/22,Pink,centerLeft,4,44,37
+6/8/22,Pink,centerRight,5,45,37
+6/8/22,Pink,bottomLeft,6,46,37
+6/8/22,Pink,bottomCenter,7,47,37
+6/8/22,Pink,bottomRight,8,48,37
+6/14/22,Orange,topLeft,1,81,30
+6/14/22,Orange,topCenter,2,82,30
+6/14/22,Orange,topRight,3,83,30
+6/14/22,Orange,centerLeft,4,84,30
+6/14/22,Orange,centerRight,5,85,30
+6/14/22,Orange,bottomLeft,6,86,30
+6/14/22,Orange,bottomCenter,7,87,30
+6/14/22,Orange,bottomRight,8,88,30
+6/14/22,Pink,topLeft,1,89,30
+6/14/22,Pink,topCenter,2,90,30
+6/14/22,Pink,topRight,3,91,30
+6/14/22,Pink,centerLeft,4,92,30
+6/14/22,Pink,centerRight,5,93,30
+6/14/22,Pink,bottomLeft,6,94,30
+6/14/22,Pink,bottomCenter,7,95,30
+6/14/22,Pink,bottomRight,8,96,30
+6/14/22,Orange,topLeft,1,97,34
+6/14/22,Orange,topCenter,2,98,34
+6/14/22,Orange,topRight,3,99,34
+6/14/22,Orange,centerLeft,4,100,34
+6/14/22,Orange,centerRight,5,101,34
+6/14/22,Orange,bottomLeft,6,102,34
+6/14/22,Orange,bottomCenter,7,103,34
+6/14/22,Orange,bottomRight,8,104,34
+6/14/22,Pink,topLeft,1,105,34
+6/14/22,Pink,topCenter,2,106,34
+6/14/22,Pink,topRight,3,107,34
+6/14/22,Pink,centerLeft,4,108,34
+6/14/22,Pink,centerRight,5,109,34
+6/14/22,Pink,bottomLeft,6,110,34
+6/14/22,Pink,bottomCenter,7,111,34
+6/14/22,Pink,bottomRight,8,112,34
+6/14/22,Orange,topLeft,1,113,35
+6/14/22,Orange,topCenter,2,114,35
+6/14/22,Orange,topRight,3,115,35
+6/14/22,Orange,centerLeft,4,116,35
+6/14/22,Orange,centerRight,5,117,35
+6/14/22,Orange,bottomLeft,6,118,35
+6/14/22,Orange,bottomCenter,7,119,35
+6/14/22,Orange,bottomRight,8,120,35
+6/14/22,Pink,topLeft,1,121,35
+6/14/22,Pink,topCenter,2,122,35
+6/14/22,Pink,topRight,3,123,35
+6/14/22,Pink,centerLeft,4,124,35
+6/14/22,Pink,centerRight,5,125,35
+6/14/22,Pink,bottomLeft,6,126,35
+6/14/22,Pink,bottomCenter,7,127,35
+6/14/22,Pink,bottomRight,8,128,35
+6/14/22,Orange,topLeft,1,129,36
+6/14/22,Orange,topCenter,2,130,36
+6/14/22,Orange,topRight,3,131,36
+6/14/22,Orange,centerLeft,4,132,36
+6/14/22,Orange,centerRight,5,133,36
+6/14/22,Orange,bottomLeft,6,134,36
+6/14/22,Orange,bottomCenter,7,135,36
+6/14/22,Orange,bottomRight,8,136,36
+6/14/22,Pink,topLeft,1,137,36
+6/14/22,Pink,topCenter,2,138,36
+6/14/22,Pink,topRight,3,139,36
+6/14/22,Pink,centerLeft,4,140,36
+6/14/22,Pink,centerRight,5,141,36
+6/14/22,Pink,bottomLeft,6,142,36
+6/14/22,Pink,bottomCenter,7,143,36
+6/14/22,Pink,bottomRight,8,144,36
+6/14/22,Orange,topLeft,1,145,37
+6/14/22,Orange,topCenter,2,146,37
+6/14/22,Orange,topRight,3,147,37
+6/14/22,Orange,centerLeft,4,148,37
+6/14/22,Orange,centerRight,5,149,37
+6/14/22,Orange,bottomLeft,6,150,37
+6/14/22,Orange,bottomCenter,7,151,37
+6/14/22,Orange,bottomRight,8,152,37
+6/14/22,Pink,topLeft,1,153,37
+6/14/22,Pink,topCenter,2,154,37
+6/14/22,Pink,topRight,3,155,37
+6/14/22,Pink,centerLeft,4,156,37
+6/14/22,Pink,centerRight,5,157,37
+6/14/22,Pink,bottomLeft,6,158,37
+6/14/22,Pink,bottomCenter,7,159,37
+6/14/22,Pink,bottomRight,8,160,37
+6/15/22,Orange,topLeft,1,161,30
+6/15/22,Orange,topCenter,2,162,30
+6/15/22,Orange,topRight,3,163,30
+6/15/22,Orange,centerLeft,4,164,30
+6/15/22,Orange,centerRight,5,165,30
+6/15/22,Orange,bottomLeft,6,166,30
+6/15/22,Orange,bottomCenter,7,167,30
+6/15/22,Orange,bottomRight,8,168,30
+6/15/22,Pink,topLeft,1,169,30
+6/15/22,Pink,topCenter,2,170,30
+6/15/22,Pink,topRight,3,171,30
+6/15/22,Pink,centerLeft,4,172,30
+6/15/22,Pink,centerRight,5,173,30
+6/15/22,Pink,bottomLeft,6,174,30
+6/15/22,Pink,bottomCenter,7,175,30
+6/15/22,Pink,bottomRight,8,176,30
+6/15/22,Bue,topLeft,1,177,30
+6/15/22,Bue,topRight,2,178,30
+6/15/22,Bue,center,3,179,30
+6/15/22,Bue,bottomLeft,4,180,30
+6/15/22,Bue,bottomRight,5,181,30
+6/15/22,2x Orange,topLeft,1,182,30
+6/15/22,2x Orange,topRight,2,183,30
+6/15/22,2x Orange,center,3,184,30
+6/15/22,2x Orange,bottomLeft,4,185,30
+6/15/22,2x Orange,bottomRight,5,186,30
+6/15/22,Orange,topLeft,1,187,34
+6/15/22,Orange,topCenter,2,188,34
+6/15/22,Orange,topRight,3,189,34
+6/15/22,Orange,centerLeft,4,190,34
+6/15/22,Orange,centerRight,5,191,34
+6/15/22,Orange,bottomLeft,6,192,34
+6/15/22,Orange,bottomCenter,7,193,34
+6/15/22,Orange,bottomRight,8,194,34
+6/15/22,Pink,topLeft,1,195,34
+6/15/22,Pink,topCenter,2,196,34
+6/15/22,Pink,topRight,3,197,34
+6/15/22,Pink,centerLeft,4,198,34
+6/15/22,Pink,centerRight,5,199,34
+6/15/22,Pink,bottomLeft,6,200,34
+6/15/22,Pink,bottomCenter,7,201,34
+6/15/22,Pink,bottomRight,8,202,34
+6/15/22,Bue,topLeft,1,203,34
+6/15/22,Bue,topRight,2,204,34
+6/15/22,Bue,center,3,205,34
+6/15/22,Bue,bottomLeft,4,206,34
+6/15/22,Bue,bottomRight,5,207,34
+6/15/22,2x Orange,topLeft,1,208,34
+6/15/22,2x Orange,topRight,2,225,34
+6/15/22,2x Orange,center,3,226,34
+6/15/22,2x Orange,bottomLeft,4,227,34
+6/15/22,2x Orange,bottomRight,5,228,34
+6/15/22,Orange,topLeft,1,213,35
+6/15/22,Orange,topCenter,2,214,35
+6/15/22,Orange,topRight,3,215,35
+6/15/22,Orange,centerLeft,4,216,35
+6/15/22,Orange,centerRight,5,217,35
+6/15/22,Orange,bottomLeft,6,218,35
+6/15/22,Orange,bottomCenter,7,219,35
+6/15/22,Orange,bottomRight,8,220,35
+6/15/22,Pink,topLeft,1,221,35
+6/15/22,Pink,topCenter,2,222,35
+6/15/22,Pink,topRight,3,223,35
+6/15/22,Pink,centerLeft,4,224,35
+6/15/22,Pink,centerRight,5,209,35
+6/15/22,Pink,bottomLeft,6,210,35
+6/15/22,Pink,bottomCenter,7,211,35
+6/15/22,Pink,bottomRight,8,212,35
+6/15/22,Bue,topLeft,1,229,35
+6/15/22,Bue,topRight,2,230,35
+6/15/22,Bue,center,3,231,35
+6/15/22,Bue,bottomLeft,4,232,35
+6/15/22,Bue,bottomRight,5,233,35
+6/15/22,2x Orange,topLeft,1,234,35
+6/15/22,2x Orange,topRight,2,235,35
+6/15/22,2x Orange,center,3,236,35
+6/15/22,2x Orange,bottomLeft,4,237,35
+6/15/22,2x Orange,bottomRight,5,238,35
+6/15/22,Orange,topLeft,1,239,36
+6/15/22,Orange,topCenter,2,240,36
+6/15/22,Orange,topRight,3,241,36
+6/15/22,Orange,centerLeft,4,242,36
+6/15/22,Orange,centerRight,5,243,36
+6/15/22,Orange,bottomLeft,6,244,36
+6/15/22,Orange,bottomCenter,7,245,36
+6/15/22,Orange,bottomRight,8,246,36
+6/15/22,Pink,topLeft,1,247,36
+6/15/22,Pink,topCenter,2,248,36
+6/15/22,Pink,topRight,3,249,36
+6/15/22,Pink,centerLeft,4,250,36
+6/15/22,Pink,centerRight,5,251,36
+6/15/22,Pink,bottomLeft,6,252,36
+6/15/22,Pink,bottomCenter,7,253,36
+6/15/22,Pink,bottomRight,8,254,36
+6/15/22,Bue,topLeft,1,255,36
+6/15/22,Bue,topRight,2,256,36
+6/15/22,Bue,center,3,257,36
+6/15/22,Bue,bottomLeft,4,258,36
+6/15/22,Bue,bottomRight,5,259,36
+6/15/22,2x Orange,topLeft,1,260,36
+6/15/22,2x Orange,topRight,2,261,36
+6/15/22,2x Orange,center,3,262,36
+6/15/22,2x Orange,bottomLeft,4,263,36
+6/15/22,2x Orange,bottomRight,5,264,36
+6/15/22,Orange,topLeft,1,265,37
+6/15/22,Orange,topCenter,2,266,37
+6/15/22,Orange,topRight,3,267,37
+6/15/22,Orange,centerLeft,4,268,37
+6/15/22,Orange,centerRight,5,269,37
+6/15/22,Orange,bottomLeft,6,270,37
+6/15/22,Orange,bottomCenter,7,271,37
+6/15/22,Orange,bottomRight,8,272,37
+6/15/22,Pink,topLeft,1,273,37
+6/15/22,Pink,topCenter,2,274,37
+6/15/22,Pink,topRight,3,275,37
+6/15/22,Pink,centerLeft,4,276,37
+6/15/22,Pink,centerRight,5,277,37
+6/15/22,Pink,bottomLeft,6,278,37
+6/15/22,Pink,bottomCenter,7,279,37
+6/15/22,Pink,bottomRight,8,280,37
+6/15/22,Bue,topLeft,1,281,37
+6/15/22,Bue,topRight,2,282,37
+6/15/22,Bue,center,3,283,37
+6/15/22,Bue,bottomLeft,4,284,37
+6/15/22,Bue,bottomRight,5,285,37
+6/15/22,2x Orange,topLeft,1,286,37
+6/15/22,2x Orange,topRight,2,287,37
+6/15/22,2x Orange,center,3,288,37
+6/15/22,2x Orange,bottomLeft,4,324,37
+6/15/22,2x Orange,bottomRight,5,290,37
+6/16/22,Orange,topLeft,1,291,30
+6/16/22,Orange,topCenter,2,292,30
+6/16/22,Orange,topRight,3,293,30
+6/16/22,Orange,centerLeft,4,294,30
+6/16/22,Orange,centerRight,5,295,30
+6/16/22,Orange,bottomLeft,6,296,30
+6/16/22,Orange,bottomCenter,7,297,30
+6/16/22,Orange,bottomRight,8,298,30
+6/16/22,Pink,topLeft,1,299,30
+6/16/22,Pink,topCenter,2,300,30
+6/16/22,Pink,topRight,3,301,30
+6/16/22,Pink,centerLeft,4,302,30
+6/16/22,Pink,centerRight,5,303,30
+6/16/22,Pink,bottomLeft,6,304,30
+6/16/22,Pink,bottomCenter,7,305,30
+6/16/22,Pink,bottomRight,8,306,30
+6/16/22,Orange,topLeft,1,307,34
+6/16/22,Orange,topCenter,2,308,34
+6/16/22,Orange,topRight,3,309,34
+6/16/22,Orange,centerLeft,4,310,34
+6/16/22,Orange,centerRight,5,311,34
+6/16/22,Orange,bottomLeft,6,312,34
+6/16/22,Orange,bottomCenter,7,313,34
+6/16/22,Orange,bottomRight,8,314,34
+6/16/22,Pink,topLeft,1,315,34
+6/16/22,Pink,topCenter,2,316,34
+6/16/22,Pink,topRight,3,317,34
+6/16/22,Pink,centerLeft,4,318,34
+6/16/22,Pink,centerRight,5,319,34
+6/16/22,Pink,bottomLeft,6,320,34
+6/16/22,Pink,bottomCenter,7,321,34
+6/16/22,Pink,bottomRight,8,322,34
+6/16/22,Orange,topLeft,1,371,35
+6/16/22,Orange,topCenter,2,372,35
+6/16/22,Orange,topRight,3,325,35
+6/16/22,Orange,centerLeft,4,326,35
+6/16/22,Orange,centerRight,5,327,35
+6/16/22,Orange,bottomLeft,6,328,35
+6/16/22,Orange,bottomCenter,7,329,35
+6/16/22,Orange,bottomRight,8,330,35
+6/16/22,Pink,topLeft,1,331,35
+6/16/22,Pink,topCenter,2,332,35
+6/16/22,Pink,topRight,3,333,35
+6/16/22,Pink,centerLeft,4,334,35
+6/16/22,Pink,centerRight,5,335,35
+6/16/22,Pink,bottomLeft,6,336,35
+6/16/22,Pink,bottomCenter,7,337,35
+6/16/22,Pink,bottomRight,8,338,35
+6/16/22,Orange,topLeft,1,339,36
+6/16/22,Orange,topCenter,2,340,36
+6/16/22,Orange,topRight,3,341,36
+6/16/22,Orange,centerLeft,4,342,36
+6/16/22,Orange,centerRight,5,343,36
+6/16/22,Orange,bottomLeft,6,344,36
+6/16/22,Orange,bottomCenter,7,345,36
+6/16/22,Orange,bottomRight,8,346,36
+6/16/22,Pink,topLeft,1,347,36
+6/16/22,Pink,topCenter,2,348,36
+6/16/22,Pink,topRight,3,349,36
+6/16/22,Pink,centerLeft,4,350,36
+6/16/22,Pink,centerRight,5,351,36
+6/16/22,Pink,bottomLeft,6,352,36
+6/16/22,Pink,bottomCenter,7,353,36
+6/16/22,Pink,bottomRight,8,354,36
+6/16/22,Orange,topLeft,1,355,37
+6/16/22,Orange,topCenter,2,356,37
+6/16/22,Orange,topRight,3,357,37
+6/16/22,Orange,centerLeft,4,358,37
+6/16/22,Orange,centerRight,5,359,37
+6/16/22,Orange,bottomLeft,6,360,37
+6/16/22,Orange,bottomCenter,7,361,37
+6/16/22,Orange,bottomRight,8,362,37
+6/16/22,Pink,topLeft,1,363,37
+6/16/22,Pink,topCenter,2,364,37
+6/16/22,Pink,topRight,3,365,37
+6/16/22,Pink,centerLeft,4,366,37
+6/16/22,Pink,centerRight,5,367,37
+6/16/22,Pink,bottomLeft,6,368,37
+6/16/22,Pink,bottomCenter,7,369,37
+6/16/22,Pink,bottomRight,8,370,37
+6/17/22,Orange,topLeft,1,373,30
+6/17/22,Orange,topCenter,2,374,30
+6/17/22,Orange,topRight,3,375,30
+6/17/22,Orange,centerLeft,4,376,30
+6/17/22,Orange,centerRight,5,377,30
+6/17/22,Orange,bottomLeft,6,378,30
+6/17/22,Orange,bottomCenter,7,379,30
+6/17/22,Orange,bottomRight,8,NA,30
+6/17/22,Pink,topLeft,1,381,30
+6/17/22,Pink,topCenter,2,382,30
+6/17/22,Pink,topRight,3,383,30
+6/17/22,Pink,centerLeft,4,384,30
+6/17/22,Pink,centerRight,5,385,30
+6/17/22,Pink,bottomLeft,6,386,30
+6/17/22,Pink,bottomCenter,7,387,30
+6/17/22,Pink,bottomRight,8,388,30
+6/17/22,2x Orange,topLeft,1,389,30
+6/17/22,2x Orange,topCenter,2,390,30
+6/17/22,2x Orange,topRight,3,391,30
+6/17/22,2x Orange,centerLeft,4,392,30
+6/17/22,2x Orange,centerRight,5,393,30
+6/17/22,2x Orange,bottomLeft,6,394,30
+6/17/22,2x Orange,bottomCenter,7,NA,30
+6/17/22,2x Orange,bottomRight,8,NA,30
+6/17/22,2x Pink,topLeft,1,397,30
+6/17/22,2x Pink,topCenter,2,398,30
+6/17/22,2x Pink,topRight,3,399,30
+6/17/22,2x Pink,centerLeft,4,400,30
+6/17/22,2x Pink,centerRight,5,401,30
+6/17/22,2x Pink,bottomLeft,6,402,30
+6/17/22,2x Pink,bottomCenter,7,403,30
+6/17/22,2x Pink,bottomRight,8,404,30
+6/17/22,Orange,topLeft,1,405,34
+6/17/22,Orange,topCenter,2,406,34
+6/17/22,Orange,topRight,3,407,34
+6/17/22,Orange,centerLeft,4,408,34
+6/17/22,Orange,centerRight,5,409,34
+6/17/22,Orange,bottomLeft,6,410,34
+6/17/22,Orange,bottomCenter,7,411,34
+6/17/22,Orange,bottomRight,8,NA,34
+6/17/22,Pink,topLeft,1,514,34
+6/17/22,Pink,topCenter,2,414,34
+6/17/22,Pink,topRight,3,415,34
+6/17/22,Pink,centerLeft,4,416,34
+6/17/22,Pink,centerRight,5,417,34
+6/17/22,Pink,bottomLeft,6,418,34
+6/17/22,Pink,bottomCenter,7,419,34
+6/17/22,Pink,bottomRight,8,420,34
+6/17/22,2x Orange,topLeft,1,421,34
+6/17/22,2x Orange,topCenter,2,422,34
+6/17/22,2x Orange,topRight,3,423,34
+6/17/22,2x Orange,centerLeft,4,424,34
+6/17/22,2x Orange,centerRight,5,425,34
+6/17/22,2x Orange,bottomLeft,6,426,34
+6/17/22,2x Orange,bottomCenter,7,NA,34
+6/17/22,2x Orange,bottomRight,8,NA,34
+6/17/22,2x Pink,topLeft,1,429,34
+6/17/22,2x Pink,topCenter,2,430,34
+6/17/22,2x Pink,topRight,3,431,34
+6/17/22,2x Pink,centerLeft,4,432,34
+6/17/22,2x Pink,centerRight,5,433,34
+6/17/22,2x Pink,bottomLeft,6,434,34
+6/17/22,2x Pink,bottomCenter,7,435,34
+6/17/22,2x Pink,bottomRight,8,436,34
+6/17/22,Orange,topLeft,1,437,35
+6/17/22,Orange,topCenter,2,438,35
+6/17/22,Orange,topRight,3,439,35
+6/17/22,Orange,centerLeft,4,440,35
+6/17/22,Orange,centerRight,5,441,35
+6/17/22,Orange,bottomLeft,6,442,35
+6/17/22,Orange,bottomCenter,7,443,35
+6/17/22,Orange,bottomRight,8,NA,35
+6/17/22,Pink,topLeft,1,445,35
+6/17/22,Pink,topCenter,2,449,35
+6/17/22,Pink,topRight,3,450,35
+6/17/22,Pink,centerLeft,4,451,35
+6/17/22,Pink,centerRight,5,452,35
+6/17/22,Pink,bottomLeft,6,491,35
+6/17/22,Pink,bottomCenter,7,460,35
+6/17/22,Pink,bottomRight,8,413,35
+6/17/22,2x Orange,topLeft,1,453,35
+6/17/22,2x Orange,topCenter,2,454,35
+6/17/22,2x Orange,topRight,3,455,35
+6/17/22,2x Orange,centerLeft,4,456,35
+6/17/22,2x Orange,centerRight,5,457,35
+6/17/22,2x Orange,bottomLeft,6,458,35
+6/17/22,2x Orange,bottomCenter,7,NA,35
+6/17/22,2x Orange,bottomRight,8,NA,35
+6/17/22,2x Pink,topLeft,1,461,35
+6/17/22,2x Pink,topCenter,2,462,35
+6/17/22,2x Pink,topRight,3,463,35
+6/17/22,2x Pink,centerLeft,4,464,35
+6/17/22,2x Pink,centerRight,5,465,35
+6/17/22,2x Pink,bottomLeft,6,466,35
+6/17/22,2x Pink,bottomCenter,7,467,35
+6/17/22,2x Pink,bottomRight,8,468,35
+6/17/22,Orange,topLeft,1,469,36
+6/17/22,Orange,topCenter,2,470,36
+6/17/22,Orange,topRight,3,471,36
+6/17/22,Orange,centerLeft,4,472,36
+6/17/22,Orange,centerRight,5,473,36
+6/17/22,Orange,bottomLeft,6,474,36
+6/17/22,Orange,bottomCenter,7,475,36
+6/17/22,Orange,bottomRight,8,NA,36
+6/17/22,Pink,topLeft,1,477,36
+6/17/22,Pink,topCenter,2,478,36
+6/17/22,Pink,topRight,3,479,36
+6/17/22,Pink,centerLeft,4,480,36
+6/17/22,Pink,centerRight,5,481,36
+6/17/22,Pink,bottomLeft,6,482,36
+6/17/22,Pink,bottomCenter,7,483,36
+6/17/22,Pink,bottomRight,8,484,36
+6/17/22,2x Orange,topLeft,1,485,36
+6/17/22,2x Orange,topCenter,2,486,36
+6/17/22,2x Orange,topRight,3,487,36
+6/17/22,2x Orange,centerLeft,4,488,36
+6/17/22,2x Orange,centerRight,5,489,36
+6/17/22,2x Orange,bottomLeft,6,490,36
+6/17/22,2x Orange,bottomCenter,7,NA,36
+6/17/22,2x Orange,bottomRight,8,NA,36
+6/17/22,2x Pink,topLeft,1,493,36
+6/17/22,2x Pink,topCenter,2,494,36
+6/17/22,2x Pink,topRight,3,495,36
+6/17/22,2x Pink,centerLeft,4,496,36
+6/17/22,2x Pink,centerRight,5,497,36
+6/17/22,2x Pink,bottomLeft,6,498,36
+6/17/22,2x Pink,bottomCenter,7,499,36
+6/17/22,2x Pink,bottomRight,8,500,36
+6/17/22,Orange,topLeft,1,501,37
+6/17/22,Orange,topCenter,2,502,37
+6/17/22,Orange,topRight,3,503,37
+6/17/22,Orange,centerLeft,4,504,37
+6/17/22,Orange,centerRight,5,505,37
+6/17/22,Orange,bottomLeft,6,506,37
+6/17/22,Orange,bottomCenter,7,507,37
+6/17/22,Orange,bottomRight,8,NA,37
+6/17/22,Pink,topLeft,1,509,37
+6/17/22,Pink,topCenter,2,510,37
+6/17/22,Pink,topRight,3,511,37
+6/17/22,Pink,centerLeft,4,512,37
+6/17/22,Pink,centerRight,5,513,37
+6/17/22,Pink,bottomLeft,6,525,37
+6/17/22,Pink,bottomCenter,7,515,37
+6/17/22,Pink,bottomRight,8,516,37
+6/17/22,2x Orange,topLeft,1,517,37
+6/17/22,2x Orange,topCenter,2,518,37
+6/17/22,2x Orange,topRight,3,519,37
+6/17/22,2x Orange,centerLeft,4,520,37
+6/17/22,2x Orange,centerRight,5,521,37
+6/17/22,2x Orange,bottomLeft,6,522,37
+6/17/22,2x Orange,bottomCenter,7,NA,37
+6/17/22,2x Orange,bottomRight,8,NA,37
+6/17/22,2x Pink,topLeft,1,Didn't do,37
+6/17/22,2x Pink,topCenter,2,526,37
+6/17/22,2x Pink,topRight,3,527,37
+6/17/22,2x Pink,centerLeft,4,528,37
+6/17/22,2x Pink,centerRight,5,529,37
+6/17/22,2x Pink,bottomLeft,6,530,37
+6/17/22,2x Pink,bottomCenter,7,531,37
+6/17/22,2x Pink,bottomRight,8,532,37

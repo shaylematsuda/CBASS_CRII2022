@@ -1,0 +1,64 @@
+---
+title: "data_wrangle"
+author: "matsuda"
+date: "2023-07-14"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## metatdata
+
+June 2022 APAL/ACER CBASS 60 min trip
+
+library
+```{r cars}
+library(tidyverse)
+
+
+library(plyr) 
+library(dplyr)
+library(ggplot2)
+library(ggpubr)
+library(lmerTest)
+library(car)
+library(emmeans)
+library(gridExtra)
+library(multcomp)
+library(reshape)
+library(factoextra)
+library(reshape2)
+library(vegan) 
+library(pairwiseAdonis)
+library("scales")
+packageVersion("scales")
+library(RColorBrewer)
+library(colorRamps)
+library(devtools)
+library(phyloseq)
+library(readr)
+library(vegan)
+library(ape)
+library(geosphere)
+library(ade4)
+library(microbiome)  
+library(knitr)
+library(tidyverse)
+```
+
+load in data
+```{r}
+genet_df<-read_csv("June2022_CBASS_genet_metadata.csv")
+samp_df<-read_csv("June2022_CBASS_SM_tube_data.csv")
+
+meta_df<-left_join(samp_df, genet_df, by=c("CBASS Date","rackColor","position"))
+
+
+
+
+```
+
